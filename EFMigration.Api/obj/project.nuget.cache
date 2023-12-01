@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "u3E6E88CLuN70mC7Oe5WnmFPfLxCOu1g7G2655/0r0JkWIDwHnoLfwh9Dm2bf197W5J6NC/BKLAJomRTpH2cTw==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\EFMigration\\EFMigration.Api\\EFMigration.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\Mostafa\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
